@@ -14,8 +14,8 @@ function is_available {
 }
 
 # Make sure all executables are available on $PATH
-for cmd in ${commands[@]}; do is_available "$cmd"; done
-echo "✅ All required packages are available, will continue"
+#for cmd in ${commands[@]}; do is_available "$cmd"; done
+#echo "✅ All required packages are available, will continue"
 
 echo "👥 Updating list of contributors.."
 python ./scripts/contributors.py
