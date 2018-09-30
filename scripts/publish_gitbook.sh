@@ -24,7 +24,8 @@ git push origin master
 echo "👥 Completed updating list of contributors"
 
 echo "📖 Building the guide using gitbook.."
-gitbook install && gitbook build
+docker run --rm -v "$PWD:/gitbook" -p 4000:4000 billryan/gitbook gitbook install
+docker run --rm -v "$PWD:/gitbook" -p 4000:4000 billryan/gitbook gitbook build
 echo "📖 Done building guide"
 
 git checkout gh-pages
