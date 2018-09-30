@@ -13,5 +13,5 @@ serve:
 ifndef GITBOOK
 	$(error "Gitbook is not available, please run 'make install' first")
 else
-	$(GITBOOK) serve
+	$(GITBOOK) serve --host 0.0.0.0
 endif
