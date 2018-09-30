@@ -2,11 +2,12 @@
 
 GITBOOK := $(shell command -v ./node_modules/.bin/gitbook 2> /dev/null)
 
-deploy:
+deploy: install
 	sh ./scripts/publish_gitbook.sh
 
 install:
-	yarn && $(GITBOOK) install
+	docker run --rm -v "$PWD:/gitbook" -p 4000:4000 billryan/gitbook yarn 
+	docker run --rm -v "$PWD:/gitbook" -p 4000:4000 billryan/gitbook install
 
 serve:
 ifndef GITBOOK
