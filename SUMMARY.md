@@ -2,10 +2,10 @@
 
 * [Introduction](README.md)
 * [System Preferences](SystemPreferences/README.md)
-* [Homebrew](Homebrew/README.md)
+* [Homebrew (Mac-only)](Homebrew/README.md)
   * [Usage](Homebrew/Usage.md)
   * [Cask](Homebrew/Cask.md)
-* [iTerm2](iTerm/README.md)
+* [iTerm2 (Mac-only)](iTerm/README.md)
   * [Zsh](iTerm/zsh.md)
   * [tree](iTerm/tree.md)
   * [fzf](iTerm/fzf.md)
