@@ -14,8 +14,8 @@ function is_available {
 }
 
 # Make sure all executables are available on $PATH
-for cmd in ${commands[@]}; do is_available "$cmd"; done
-echo "✅ All required packages are available, will continue"
+#for cmd in ${commands[@]}; do is_available "$cmd"; done
+#echo "✅ All required packages are available, will continue"
 
 echo "👥 Updating list of contributors.."
 python ./scripts/contributors.py
@@ -24,7 +24,8 @@ git push origin master
 echo "👥 Completed updating list of contributors"
 
 echo "📖 Building the guide using gitbook.."
-gitbook install && gitbook build
+docker run --rm -v "$PWD:/gitbook" -p 4000:4000 billryan/gitbook gitbook install
+docker run --rm -v "$PWD:/gitbook" -p 4000:4000 billryan/gitbook gitbook build
 echo "📖 Done building guide"
 
 git checkout gh-pages
