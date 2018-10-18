@@ -2,7 +2,7 @@
 ====================
 
 This guide covers the basics of setting up an environment to work with SaaS/"DevOps"/SRE role. Whether you are an experienced programmer or not, this guide is intended
-for everyone to use as a reference for setting up your environment. For now we are focus on Mac, but we accept PR.
+for everyone to use as a reference for setting up your environment. For now our focus is Mac, but we accept PR.
 
 [![Screen](https://raw.githubusercontent.com/gomex/saas-setup/master/assets/no-thanks.jpg)](https://raw.githubusercontent.com/gomex/saas-setup/master/assets/no-thanks.jpg)
 

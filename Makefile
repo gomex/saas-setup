@@ -9,8 +9,4 @@ install:
 	docker run --rm -v "$PWD:/gitbook" -p 4000:4000 billryan/gitbook gitbook install
 
 serve:
-ifndef GITBOOK
-	$(error "Gitbook is not available, please run 'make install' first")
-else
 	docker run --rm -v "$PWD:/gitbook" -p 4000:4000 billryan/gitbook gitbook serve
-endif
