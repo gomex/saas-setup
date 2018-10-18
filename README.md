@@ -1,4 +1,4 @@
-["DevOps" Setup Guide](https://saas-setup.gomex.me)
+["DevOps" Setup Guide](https://saas.gomex.me)
 ====================
 
 This guide covers the basics of setting up an environment to work with SaaS/"DevOps"/SRE role. Whether you are an experienced programmer or not, this guide is intended
