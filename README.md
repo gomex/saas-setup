@@ -1,15 +1,10 @@
-["DevOps" Setup Guide](https://gomex.github.io/mac-setup)
+["DevOps" Setup Guide](https://saas-setup.gomex.me)
 ====================
-
-| branch | status |
-| ------ | ------ |
-| `master` | [![master branch](https://travis-ci.org/sb2nov/mac-setup.svg?branch=master)](https://travis-ci.org/sb2nov/mac-setup) |
-| `health-check` | [![health-check branch](https://img.shields.io/travis/sb2nov/mac-setup/health-check.svg?label=links)](https://travis-ci.org/sb2nov/mac-setup) |
 
 This guide covers the basics of setting up an environment to work with SaaS/"DevOps"/SRE role. Whether you are an experienced programmer or not, this guide is intended
 for everyone to use as a reference for setting up your environment. For now we are focus on Mac, but we accept PR.
 
-[![Screen](https://raw.githubusercontent.com/sb2nov/mac-setup/master/assets/technical-debt.jpg)](https://raw.githubusercontent.com/sb2nov/mac-setup/master/assets/technical-debt.jpg)
+[![Screen](https://raw.githubusercontent.com/gomex/saas-setup/master/assets/no-thanks.jpg)](https://raw.githubusercontent.com/gomex/saas-setup/master/assets/no-thanks.jpg)
 
 Contributing to the guide
 ====================
