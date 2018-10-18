@@ -10,6 +10,7 @@ Here is a list of apps that are generally good to use and can come in handy in d
 - [Caffeine](http://lightheadsw.com/caffeine/): Stops the machine from going into sleep mode.
 - [Dropbox](https://www.dropbox.com/): File syncing to the cloud. It syncs files across all devices (laptop, mobile, tablet), and serves as a backup as well!
 - [F.lux](https://justgetflux.com/): f.lux makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day (If you are running macOS 10.12.4 or later there's native functionality called 'Night Shift' that does the same thing as f.lux, see System Preferences -> Displays -> Night Shift).
+- [Lightshot](https://app.prntscr.com/en/learnmore.html): The fastest way to take a customizable screenshot.
 - [Google Drive](https://drive.google.com/): File syncing to the cloud too! Google Docs is a popular tool to collaborate with others.
 - [Notebooks](http://www.notebooksapp.com/mac/): Notebooks for Mac allows you to share files with the mobile versions of Notebooks on the iPad and iPhone. And you can write notes in markdown.
 - [PDF Toolkit+](https://itunes.apple.com/us/app/pdf-toolkit-+/id545164971?mt=12): App to cut/split/merge pdfs easily. Really easy to use and works well.
