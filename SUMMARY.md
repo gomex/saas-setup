@@ -14,7 +14,7 @@
   * [Git Ignore](Git/gitignore.md)
 * [Text Editors](Editors/README.md)
   * [Vim](Vim/README.md)
-  * [Sublime Text](Vscode/README.md)
+  * [Visual Studio Code](Vscode/README.md)
     * [Plugins](Vscode/Plugins.md)
 * [Python](Python/README.md)
   * [Pip](Python/pip.md)
