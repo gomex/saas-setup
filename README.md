@@ -21,4 +21,4 @@ documentation.**
 This guide is [MIT
 licensed](https://github.com/sb2nov/mac-setup/blob/master/LICENSE), has been
 generated using [GitBook](https://www.gitbook.com/) and based this [work](https://github.com/sb2nov/mac-setup). Feel free to contribute or
-create new issues on [GitHub](https://github.com/gomex/mac-setup/issues).
+create new issues on [GitHub](https://github.com/gomex/saas-setup/issues).
