@@ -27,7 +27,6 @@
     * [Useful Commands](Docker/UsefulCommands.md)
     * [Tips and Tricks](Docker/TipsAndTricks.md)
 * [Other Apps](Apps/README.md)
-  * [Octave](Apps/Octave.md)
   * [App Settings](Apps/Settings.md)
 * [Security](Security/README.md)
 * [References](References/README.md)
